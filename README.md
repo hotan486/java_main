@@ -13,14 +13,17 @@
 
 - [깃 크라켄](https://www.gitkraken.com/) 
 - [비주얼 스튜디오 코드](https://code.visualstudio.com/)
-  
+- [깃 크라켄 참조 영상 깃 플로우](https://www.youtube.com/watch?v=t6f7ZUG5vAU&t=429s)
+
+
+
+
 심병준 : https://github.com/hotan486/java.git</br>
-<<<<<<< HEAD
 최은비 : https://github.com/hikarigin99/Java</br>
-박지안 : https://github.com/park-jian/java
+박지안 : https://github.com/park-jian/java</br>
 깃허브 수정수정수정   어상
 hahahaha
-=======
 최은비 : https://github.com/hikarigin99/Java
-dd
->>>>>>> sdfsdf
+
+
+
